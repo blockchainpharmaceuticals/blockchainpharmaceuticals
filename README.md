@@ -1,4 +1,4 @@
-- We are the Blockchain BioPharma 
+- We are Blockchain BioPharma 
 - Our mission is to fund treatments that could normally have not been funded due to low investment 
 - We are currently inviting Developers to come build am Open Source Platform
 - Our Token is the Pharmaceutical Token: Ticker: PHARMA
